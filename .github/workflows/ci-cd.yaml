@@ -1,5 +1,5 @@
 
-name: CI/CD Workflow for our Class 1
+name: CI/CD Workflow for our Class 1 Push test
 
 on: 
   push:
